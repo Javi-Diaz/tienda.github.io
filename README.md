@@ -1,4 +1,4 @@
-Tienda (Mobile First, Responsive Desktop)
+# Tienda (Mobile First, Responsive Desktop)
 
 https://javi-diaz.github.io/tienda.github.io/
 
